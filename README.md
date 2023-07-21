@@ -9,6 +9,10 @@
 
 ## About Laravel
 
+## About The project
+this project was created bt reference https://youtu.be/qtgf3Ye1bTk
+![image](https://github.com/WidigdaMukti/laravelProject-PengaduanMasyarakat/assets/117274670/dfa27d85-35ea-40bd-8639-5f5782aaa7a2)
+
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
